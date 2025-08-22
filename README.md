@@ -150,8 +150,8 @@ I'm a passionate **AI/ML Engineer** and **Data Scientist** with expertise in bui
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-  [![Email](https://img.shields.io/badge/Email-Get_in_touch-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/vishy08)
+  [![Email](https://img.shields.io/badge/Email-Get_in_touch-red?style=for-the-badge&logo=gmail)](visheshpachouri@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-View_my_work-green?style=for-the-badge&logo=globe)](https://your-portfolio.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow_me-black?style=for-the-badge&logo=github)](https://github.com/vishy04)
   
