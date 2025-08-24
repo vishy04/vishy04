@@ -6,9 +6,8 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg?style=for-the-badge&logo=pytorch&logoColor=white)
   ![Transformers](https://img.shields.io/badge/Transformers-4.30+-yellow.svg?style=for-the-badge&logo=huggingface&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View-green.svg?style=for-the-badge&logo=globe)](https://your-portfolio.com)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vishy08)
   
 </div>
 
